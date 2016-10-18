@@ -1,0 +1,9 @@
+C:\Users\federico\Desktop\Ledo.Federico.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\federico\Desktop\Ledo.Federico.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\federico\Desktop\Ledo.Federico.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\federico\Desktop\Ledo.Federico.2A\Entidades\obj\Debug\Entidades.pdb
+C:\Users\federico\Desktop\RPP\Ledo.Federico.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\federico\Desktop\RPP\Ledo.Federico.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\federico\Desktop\RPP\Ledo.Federico.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\federico\Desktop\RPP\Ledo.Federico.2A\Entidades\obj\Debug\Entidades.pdb
+C:\Users\federico\Desktop\RPP\Ledo.Federico.2A\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

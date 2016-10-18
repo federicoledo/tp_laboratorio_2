@@ -1,0 +1,16 @@
+C:\Users\federico\Desktop\Ledo.Federico.2A\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\federico\Desktop\Ledo.Federico.2A\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\federico\Desktop\Ledo.Federico.2A\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\federico\Desktop\Ledo.Federico.2A\TestEstante\bin\Debug\Entidades.dll
+C:\Users\federico\Desktop\Ledo.Federico.2A\TestEstante\bin\Debug\Entidades.pdb
+C:\Users\federico\Desktop\Ledo.Federico.2A\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+C:\Users\federico\Desktop\Ledo.Federico.2A\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\federico\Desktop\Ledo.Federico.2A\TestEstante\obj\Debug\TestEstante.pdb
+C:\Users\federico\Desktop\RPP\Ledo.Federico.2A\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\federico\Desktop\RPP\Ledo.Federico.2A\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\federico\Desktop\RPP\Ledo.Federico.2A\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\federico\Desktop\RPP\Ledo.Federico.2A\TestEstante\bin\Debug\Entidades.dll
+C:\Users\federico\Desktop\RPP\Ledo.Federico.2A\TestEstante\bin\Debug\Entidades.pdb
+C:\Users\federico\Desktop\RPP\Ledo.Federico.2A\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+C:\Users\federico\Desktop\RPP\Ledo.Federico.2A\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\federico\Desktop\RPP\Ledo.Federico.2A\TestEstante\obj\Debug\TestEstante.pdb
