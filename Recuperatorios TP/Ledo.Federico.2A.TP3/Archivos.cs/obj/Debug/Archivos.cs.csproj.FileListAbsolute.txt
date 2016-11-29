@@ -1,0 +1,5 @@
+C:\Users\federico\Desktop\Ledo.Federico.2A.TP3\Archivos.cs\bin\Debug\Archivos.cs.dll
+C:\Users\federico\Desktop\Ledo.Federico.2A.TP3\Archivos.cs\bin\Debug\Archivos.cs.pdb
+C:\Users\federico\Desktop\Ledo.Federico.2A.TP3\Archivos.cs\obj\Debug\Archivos.cs.dll
+C:\Users\federico\Desktop\Ledo.Federico.2A.TP3\Archivos.cs\obj\Debug\Archivos.cs.pdb
+C:\Users\federico\Desktop\Ledo.Federico.2A.TP3\Archivos.cs\obj\Debug\Archivos.cs.csprojResolveAssemblyReference.cache

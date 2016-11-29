@@ -1,0 +1,15 @@
+c:\users\alumno\documents\visual studio 2012\Projects\Ledo.Federico.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\federico\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\federico\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\federico\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\federico\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\federico\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\federico\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\federico\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+C:\Users\feder\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\feder\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\feder\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\feder\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\feder\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\feder\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\feder\Desktop\Ledo.Federico.2A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
