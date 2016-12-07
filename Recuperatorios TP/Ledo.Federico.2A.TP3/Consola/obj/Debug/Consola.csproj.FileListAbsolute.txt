@@ -26,3 +26,6 @@ C:\Users\feder\Desktop\Ledo.Federico.2A.TP3\Consola\bin\Debug\EntidadesAbstracta
 C:\Users\feder\Desktop\Ledo.Federico.2A.TP3\Consola\bin\Debug\EntidadesInstanciables.pdb
 C:\Users\feder\Desktop\Ledo.Federico.2A.TP3\Consola\bin\Debug\Excepciones.pdb
 C:\Users\feder\Desktop\Ledo.Federico.2A.TP3\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\feder\Desktop\Recuperatorios TP\Ledo.Federico.2A.TP3\Consola\bin\Debug\Consola.exe.config
+C:\Users\feder\Desktop\Recuperatorios TP\Ledo.Federico.2A.TP3\Consola\obj\Debug\Consola.exe
+C:\Users\feder\Desktop\Recuperatorios TP\Ledo.Federico.2A.TP3\Consola\obj\Debug\Consola.pdb
