@@ -27,7 +27,7 @@ namespace Archivos
         {
             try
             {
-                using (StreamWriter writer = new StreamWriter(this.archivo))
+                using (StreamWriter writer = new StreamWriter(this.archivo, true))
                 {
                     writer.WriteLine(datos);
                 }
